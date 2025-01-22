@@ -1,0 +1,21 @@
+# Ignore credentials
+spotify_credentials.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables or virtual environment folders
+.env
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db
+
